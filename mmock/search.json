@@ -1,0 +1,13 @@
+{
+	"request": {
+		"method": "GET",
+		"path": "/user"
+	},
+	"response": {
+		"statusCode": 200,
+		"headers": {
+			"Content-Type":["application/json"]
+		},
+		"body": "{\"hello\": \"{{request.query.name}}, my name is {{fake.FirstName}}\"}"
+	}
+}
