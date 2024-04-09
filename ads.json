@@ -1,1 +1,18 @@
-{}
+{
+    "laboratorio": {
+        "projectName": "laboratorio",
+        "description": "lab ",
+        "type": "community",
+        "author": "Aguscai710",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/Aguscai710/keycloak-lab-me",
+        "githubUri": "https://github.com/Aguscai710/keycloak-lab-me",
+        "license": "apache-2.0",
+        "lastUpdated": "1712676116407",
+        "tags": [
+            "jans"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
